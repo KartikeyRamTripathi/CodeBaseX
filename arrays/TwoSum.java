@@ -28,5 +28,5 @@
 //         if (found == false) {
 //             System.out.println("Target not found");
 //         }
-//     }
+//     }Array practice program
 // }
