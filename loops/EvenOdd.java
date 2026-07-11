@@ -14,5 +14,5 @@ public class EvenOdd {
         System.out.println("Entered Number is odd");
       }
     }
-    
+    // Loopa practice program
 }
